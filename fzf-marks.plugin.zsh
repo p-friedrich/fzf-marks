@@ -41,4 +41,4 @@ function dmark()  {
 }
 
 zle -N jump
-bindkey '^g' jump
+bindkey '^b' jump
